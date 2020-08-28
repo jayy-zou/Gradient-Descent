@@ -1,1 +1,1 @@
-My Gradient Descent algorithms
+My Gradient Descent Algorithms
